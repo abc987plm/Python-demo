@@ -1,4 +1,8 @@
 #!python 3
+```
+pip install requests bs4
+```
+
 import requests, os, bs4, time
 
 print('开始运行')
